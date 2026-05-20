@@ -55,6 +55,10 @@ The design has one unique innovation: a **Raspberry Pi Zero 2W as a group access
 ```
 
 ---
+![Architecture](images/radio.arc.png)
+![Overview](images/radio.overview.png)
+![Broadcast Interface](images/radio.interface.png)
+![Group Access](images/radio.user.png)
 
 ## 🔧 Hardware & Software Stack
 

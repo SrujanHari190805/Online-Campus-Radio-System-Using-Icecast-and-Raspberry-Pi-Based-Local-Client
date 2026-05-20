@@ -57,16 +57,16 @@ The design has one unique innovation: a **Raspberry Pi Zero 2W as a group access
 ## 🖼️ System Diagrams
 
 ### System Architecture
-![System architecture diagram showing the three-layer design: Input layer (microphone and mixer), Broadcast layer (Icecast server and BUTT encoder), and Access layer (web player for individual listeners and Raspberry Pi client for group broadcast)](images/radio.arc.png)
+![System architecture diagram showing the three-layer design: Input layer (microphone and mixer), Broadcast layer (Icecast server and BUTT encoder), and Access layer (web player for individual listeners and Raspberry Pi client for group broadcast)](images/radio_arc.png)
 
 ### System Overview
-![High-level overview of the campus radio system, illustrating how audio flows from the broadcast studio through the internet to individual web listeners and group listening points across campus](images/radio.overview.png)
+![High-level overview of the campus radio system, illustrating how audio flows from the broadcast studio through the internet to individual web listeners and group listening points across campus](images/radio_overview.png)
 
 ### Broadcast Interface
-![Screenshot of the broadcast management interface used by radio operators, showing controls for live streaming, audio encoding settings, and stream monitoring via BUTT and Icecast](images/radio.interface.png)
+![Screenshot of the broadcast management interface used by radio operators, showing controls for live streaming, audio encoding settings, and stream monitoring via BUTT and Icecast](images/radio_interface.png)
 
 ### Group Access Client (Raspberry Pi)
-![Diagram and photo of the Raspberry Pi Zero 2W group access client setup, connected via Bluetooth to a campus amplifier with an ESP32 relay module for remote power control through the Blynk IoT platform](images/radio.user.png)
+![Diagram and photo of the Raspberry Pi Zero 2W group access client setup, connected via Bluetooth to a campus amplifier with an ESP32 relay module for remote power control through the Blynk IoT platform](images/radio_user.png)
 
 ---
 

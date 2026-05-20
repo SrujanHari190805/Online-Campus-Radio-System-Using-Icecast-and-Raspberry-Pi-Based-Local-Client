@@ -57,16 +57,16 @@ The design has one unique innovation: a **Raspberry Pi Zero 2W as a group access
 ## 🖼️ System Diagrams
 
 ### System Architecture
-<img src="images/radio_arc.png" alt="System architecture diagram showing the three-layer design" width="600"/>
+<img src="images/radio_arc.png" alt="System architecture diagram showing the three-layer design" width="400"/>
 
 ### System Overview
-<img src="images/radio_overview.png" alt="High-level overview of the campus radio system" width="600"/>
+<img src="images/radio_overview.png" alt="High-level overview of the campus radio system" width="400"/>
 
 ### Broadcast Interface
-<img src="images/radio_interface.png" alt="Screenshot of the broadcast management interface" width="600"/>
+<img src="images/radio_interface.png" alt="Screenshot of the broadcast management interface" width="400"/>
 
 ### Group Access Client (Raspberry Pi)
-<img src="images/radio_user.png" alt="Diagram and photo of the Raspberry Pi Zero 2W group access client setup" width="600"/>
+<img src="images/radio_user.png" alt="Diagram and photo of the Raspberry Pi Zero 2W group access client setup" width="400"/>
 
 ---
 
